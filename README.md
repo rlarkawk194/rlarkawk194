@@ -1,4 +1,4 @@
-## Hi there 👋
+## 게임 기획자 지망생 고예린입니다👋
 
 <!--
 **rlarkawk194/rlarkawk194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
